@@ -32,10 +32,10 @@ on the test set.
 
 # Visualizations
 ## Exploratory Analysis
-![EDA](exploracion_inicial.png)
+![EDA](initial_exploration.png)
 
 ## Correlation Heatmap
-![Correlations](correlaciones.png)
+![Correlations](correlations.png)
 
 ## Feature Importance & Model Summary
 ![Model Summary](model_summary.png)
